@@ -30,6 +30,10 @@ Engenheiro Eletricista | Desenvolvedor Full Stack | Entusiasta de Tecnologia
 - **Inteligência Artificial & IoT**: Soluções de automação e integração de dispositivos inteligentes
 - **Ferramentas e Serviços**: AWS, Twilio, Docker, Git, GitHub
 
+## ⚡ Repositórios
+
+Todos os meus repositórios contêm **aplicações reais** desenvolvidas para projetos acadêmicos e profissionais. Caso tenha interesse em conhecer mais sobre o meu trabalho e discutir possíveis colaborações ou projetos, basta entrar em contato comigo. Terei prazer em liberar o acesso aos repositórios e compartilhar mais detalhes!
+
 ## 📫 Como Me Encontrar
 
 - **LinkedIn**: [Henry Felipe Magri](https://www.linkedin.com/in/henry-magri-7a40a52a1/)
