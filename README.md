@@ -25,14 +25,10 @@ Engenheiro Eletricista | Desenvolvedor Full Stack | Entusiasta de Tecnologia
 
 ## 🚀 Tecnologias que Utilizo
 
-- **Front-end**: React, React Native, Expo
-- **Back-end**: Python, FastAPI, Django, MySQL, PostgreSQL
-- **Inteligência Artificial & IoT**: Soluções de automação e integração de dispositivos inteligentes
-- **Ferramentas e Serviços**: AWS, Twilio, Docker, Git, GitHub
-
-## ⚡ Repositórios
-
-Todos os meus repositórios contêm **aplicações reais** desenvolvidas para projetos acadêmicos e profissionais. Caso tenha interesse em conhecer mais sobre o meu trabalho e discutir possíveis colaborações ou projetos, basta entrar em contato comigo. Terei prazer em liberar o acesso aos repositórios e compartilhar mais detalhes!
+- **Front-end**: React, React Native, Expo, Vue
+- **Back-end**: Python, FastAPI, Django, MySQL, PostgreSQL, NestJS, SpringBoot
+- **Inteligência Artificial & IoT**: Soluções de automação, integração de dispositivos inteligentes e integrações com LLMs via API.
+- **Ferramentas e Serviços**: AWS, Twilio, Docker, Git, GitHub, Azure
 
 ## 📫 Como Me Encontrar
 
