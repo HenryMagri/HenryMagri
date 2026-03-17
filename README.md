@@ -71,10 +71,6 @@ Experiência no desenvolvimento de aplicações web e mobile utilizando React, V
 - **LinkedIn**: [Henry Felipe Magri](https://www.linkedin.com/in/henry-magri-7a40a52a1/)
 - **Email**: henry.magri@ufms.br
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryMagri&show_icons=true&theme=radical)
-
 ## 📍 Projetos de Destaque
 
 ### Aplicativo de Análise de Marmoreio de Carnes
