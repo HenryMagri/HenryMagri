@@ -6,6 +6,9 @@ Desenvolvedor Full Stack com formação em Engenharia Elétrica e mestrando em C
 
 Experiência no desenvolvimento de aplicações web e mobile utilizando React, Vue, React Native, Node.js e Python, além de integração de sistemas inteligentes envolvendo visão computacional, IoT e automação.
 
+🌐 Portfólio: https://henrymagri.com.br
+ (melhor experiência no desktop)
+
 ## 🛠️ Competências
 
 - **Desenvolvimento Full Stack**: Experiência em **React**, **React Native**, **Django**, **MySQL**, **Python** e **FastAPI**. Desenvolvimento de aplicativos móveis e web com foco em desempenho e experiência do usuário.
